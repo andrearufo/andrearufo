@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Wordpress projects
+- 🌱 I’m currently learning more Laravel and Vue
+- 👯 I’m looking to collaborate on great agencies
+- 💬 Ask me about your next project
+- 📫 How to reach me: www.andrearufo.it
+- ⚡ Fun fact: I'm a father of Rebecca (2y) and a guitar player
