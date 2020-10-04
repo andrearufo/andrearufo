@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Wordpress projects
 - 🌱 I’m currently learning more Laravel and Vue
 - 👯 I’m looking to collaborate on great agencies
-- 💬 Ask me about your next project
+- 💬 Ask me about your next web project
 - 📫 How to reach me: www.andrearufo.it
-- ⚡ Fun fact: I'm a father of Rebecca (2y) and a guitar player
+- ⚡ Fun fact: I'm the proud dad of Rebecca (2y) and a guitar player
