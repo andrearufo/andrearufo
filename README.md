@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Howdy! I'm Andrea Rufo, an italian full stack web developer.
+
 - 🔭 I’m currently working on Wordpress projects
 - 🌱 I’m currently learning more Laravel and Vue
 - 👯 I’m looking to collaborate on great agencies
