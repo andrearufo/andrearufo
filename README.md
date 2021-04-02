@@ -23,3 +23,5 @@ Howdy! I'm Andrea Rufo, an italian full stack web developer.
 - 💬 Ask me about your next web project
 - 📫 How to reach me: www.andrearufo.it
 - ⚡ Fun fact: I'm the proud dad of Rebecca (2y) and a guitar player
+
+[![Andrea Rufo's github stats](https://github-readme-stats.vercel.app/api?username=andrearufo)](https://github.com/anuraghazra/github-readme-stats)
