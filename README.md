@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Howdy! I'm Andrea Rufo, an italian full stack web developer.
+Howdy! I'm **Andrea Rufo**, an italian full stack web developer.
 
-- 🔭 I’m currently working on Wordpress projects
+- 🎩 I'm one of the founder of [Axio Studio](https://axio.studio)
+- 🔭 I’m currently working on Laravel projects
 - 🌱 I’m currently learning more Laravel and Vue
-- 👯 I’m looking to collaborate on great agencies
+- 👯 I’m looking to collaborate on great partners
 - 💬 Ask me about your next web project
 - 📫 How to reach me: www.andrearufo.it
-- ⚡ Fun fact: I'm the proud dad of Rebecca (2y) and a guitar player
+- ⚡ Fun fact: I'm the proud dad of Rebecca (3y) and a guitar player
 
 [![Andrea Rufo's github stats](https://github-readme-stats.vercel.app/api?username=andrearufo)](https://github.com/anuraghazra/github-readme-stats)
