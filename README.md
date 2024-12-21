@@ -23,6 +23,6 @@ Howdy! I'm **Andrea Rufo**, an italian full stack web developer.
 - 👯 I’m looking to collaborate on great partners
 - 💬 Ask me about your next web project
 - 📫 How to reach me: www.andrearufo.it
-- ⚡ Fun fact: I'm the proud dad of Rebecca (4y) and a metal head
+- ⚡ Fun fact: I'm the proud dad of Rebecca (6y) and a metal head
 
 [![Andrea Rufo's github stats](https://github-readme-stats.vercel.app/api?username=andrearufo)](https://github.com/anuraghazra/github-readme-stats)
